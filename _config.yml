@@ -8,7 +8,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 
 title: "My Many Projects"
-description: "Coding & DIY Stuff That I Have Done Over The Course Of My Life"
+description: "Coding & DIY Stuff That I Have Done"
 
 # When using a custom domain:u
 url: "https://projects.kervian.com"
